@@ -1,2 +1,2 @@
 #power-automate-flows
-This repo is for building Microsoft Power Automate flows using Microsoft's [https://github.com/microsoft/power-platform-skills/tree/main/plugins/power-automate](Power Automate Plugin) and the FlowAgent MCP server.
+This repo is for building Microsoft Power Automate flows using Microsoft's [Power Automate Plugin](https://github.com/microsoft/power-platform-skills/tree/main/plugins/power-automate) and the FlowAgent MCP server.
